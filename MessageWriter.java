@@ -2,9 +2,9 @@ public class MessageWriter implements Runnable {
     private int myCounter;
     private String myName;
 
-    public MessageWrier(String name) {
+    public MessageWriter(String name) {
         myCounter = 0;
-        myname = name;      
+        myName = name;      
     }
 
     public void run() {

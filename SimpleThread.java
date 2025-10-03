@@ -11,7 +11,7 @@ public class SimpleThread{
         }
 
         System.out.println("\nmain program execution at end");
-        // System.exit(0);
+        //System.exit(0);
 
     }
 }
